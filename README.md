@@ -120,6 +120,6 @@ This dashboard uses a consistent and intuitive color palette to highlight key he
 
 ## 📫 Contact
 
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/tejaswi-jakku-29923a337) or raise issues for feedback!
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/saurabhtanwer) or raise issues for feedback!
 
 ---
